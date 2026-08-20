@@ -38,6 +38,7 @@ The main objective of this project is to analyze pizza sales data and answer key
 
 ## 📂 Project Structure
 
+
 ```text
 Pizza-Sales-Data-Analysis/
 │
@@ -54,3 +55,13 @@ Pizza-Sales-Data-Analysis/
 │   └── Pizza_Sales_Dashboard.pbix
 │
 └── README.md
+```
+## 📊 Power BI Dashboard
+
+### Sales Overview
+
+![Pizza Sales Dashboard - Sales Overview](images/sales_overview.png)
+
+### Best & Worst Sellers
+
+![Pizza Sales Dashboard - Best and Worst Sellers](images/best_worst_sellers.png)
