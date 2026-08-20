@@ -41,7 +41,6 @@ The main objective of this project is to analyze pizza sales data and answer key
 ## 🛠️ Tools & Technologies
 
 - SQL
-- Microsoft Excel
 - Power BI
 
 ## 📂 Project Structure
