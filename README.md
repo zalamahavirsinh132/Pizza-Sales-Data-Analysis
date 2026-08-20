@@ -30,6 +30,14 @@ The main objective of this project is to analyze pizza sales data and answer key
 - Pizza performance based on total quantity sold
 - Pizza performance based on total orders
 
+## 🔍 Key Insights
+
+- Identified the highest and lowest performing pizza categories.
+- Analyzed daily and monthly order trends.
+- Identified the best and worst-selling pizzas based on revenue, quantity, and total orders.
+- Analyzed sales performance by pizza size.
+- Identified peak ordering days and months.
+
 ## 🛠️ Tools & Technologies
 
 - SQL
